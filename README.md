@@ -7,3 +7,10 @@ Repository for weekly in-lecture programming examples.
 * variable assignment, basic operators, data types
 * lists
 * for-loop intro
+
+## Week 02
+* lots of practice with lists
+* generating random numbers
+* for-loops and list comprehensions
+* writing functions
+* central limit theorem and the standard error on the mean
