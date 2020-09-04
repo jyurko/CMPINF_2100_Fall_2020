@@ -14,3 +14,10 @@ Repository for weekly in-lecture programming examples.
 * for-loops and list comprehensions
 * writing functions
 * central limit theorem and the standard error on the mean
+
+## Week 03
+* Side effects and aliasing
+* Debugging within Jupyter notebooks
+* Class, attributes, and methods
+* NumPy arrays - creation, attributes, methods, manipulation
+* Calculating the standard error on the mean with NumPy
