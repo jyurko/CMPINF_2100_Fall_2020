@@ -21,3 +21,9 @@ Repository for weekly in-lecture programming examples.
 * Class, attributes, and methods
 * NumPy arrays - creation, attributes, methods, manipulation
 * Calculating the standard error on the mean with NumPy
+
+## Week 04
+* Creating Pandas Series and DataFrames
+* Attributes, methods, subsetting, selecting, merging 
+* Introduce exploring a real data set with Pandas
+* Visualize the variability of the sample average with boxplots
