@@ -27,3 +27,8 @@ Repository for weekly in-lecture programming examples.
 * Attributes, methods, subsetting, selecting, merging 
 * Introduce exploring a real data set with Pandas
 * Visualize the variability of the sample average with boxplots
+
+## Week 05
+* Applying functions over Pandas Series and DataFrames
+* GroupBy, aggregating, and summarize: SPLIT-APPLY-COMBINE
+* Reshaping DataFrames: wide and long formats, pivoting, and pivot tables
