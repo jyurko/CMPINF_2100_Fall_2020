@@ -32,3 +32,14 @@ Repository for weekly in-lecture programming examples.
 * Applying functions over Pandas Series and DataFrames
 * GroupBy, aggregating, and summarize: SPLIT-APPLY-COMBINE
 * Reshaping DataFrames: wide and long formats, pivoting, and pivot tables
+
+## Week 06
+* matplotlib basics
+* Introduction to Seaborn
+* Histograms and Counts
+* Density plots
+* 2D histograms and 2D density plots
+* Using color and facets to "split" by groups
+* Scatter plots
+* Joint plots, pair plots, correlation plots
+*
