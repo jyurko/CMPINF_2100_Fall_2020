@@ -42,4 +42,9 @@ Repository for weekly in-lecture programming examples.
 * Using color and facets to "split" by groups
 * Scatter plots
 * Joint plots, pair plots, correlation plots
-*
+
+## Week 07
+* Introduction to cluster analysis
+* Introduction to preprocessing
+* Apply KMeans clustering to the penguins dataset
+* Visualize cluster analysis results with PCA
