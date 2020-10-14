@@ -48,3 +48,9 @@ Repository for weekly in-lecture programming examples.
 * Introduction to preprocessing
 * Apply KMeans clustering to the penguins dataset
 * Visualize cluster analysis results with PCA
+
+## Week 08
+* Identifying optimal number of clusters
+* Hierarchical clustering - compare different linkages
+* Interpreting Dendrograms
+* More practice with PCA
