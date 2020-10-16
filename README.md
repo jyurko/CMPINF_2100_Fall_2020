@@ -54,3 +54,9 @@ Repository for weekly in-lecture programming examples.
 * Hierarchical clustering - compare different linkages
 * Interpreting Dendrograms
 * More practice with PCA
+
+## Week 09
+* Introduction to linear models
+* Generating random data from a linear model
+* Visualizing the least squares estimator
+* Introduction to statsmodels
