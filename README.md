@@ -60,3 +60,11 @@ Repository for weekly in-lecture programming examples.
 * Generating random data from a linear model
 * Visualizing the least squares estimator
 * Introduction to statsmodels
+
+## Week 10
+* Interpreting coefficient estimates and confidence intervals
+* What is R-squared?
+* Visualizing residuals
+* Additive terms, interactions, and polynomials
+* Visualizing partial regression plots with statsmodels
+* Introduction to logistic regression with the Space Shuttle Challenger data set
