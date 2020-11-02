@@ -68,3 +68,10 @@ Repository for weekly in-lecture programming examples.
 * Additive terms, interactions, and polynomials
 * Visualizing partial regression plots with statsmodels
 * Introduction to logistic regression with the Space Shuttle Challenger data set
+
+## Week 11
+* Fitting logistic regression models with statsmodels
+* Interpreting logistic regression coefficients and statistical significance
+* Working with categorical inputs via dummy variables
+* Interpreting dummy variables as relative effects and group level averages
+* Binary classification performance metrics: Accuracy, Confusion Matrix, ROC curve
