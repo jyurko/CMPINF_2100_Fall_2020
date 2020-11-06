@@ -82,3 +82,4 @@ Repository for weekly in-lecture programming examples.
 * Impact of regularization strength on model performance
 * Introduction to cross-validation - K-fold and Stratified K-fold
 * Tuning ridge and lasso penalties with cross-validation
+* Bias-variance trade-off
