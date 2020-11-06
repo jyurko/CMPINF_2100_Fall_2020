@@ -75,3 +75,10 @@ Repository for weekly in-lecture programming examples.
 * Working with categorical inputs via dummy variables
 * Interpreting dummy variables as relative effects and group level averages
 * Binary classification performance metrics: Accuracy, Confusion Matrix, ROC curve
+
+## Week 12
+* Introduction to regularization via logistic regression with scikit-learn
+* Impact of regularization strength on coefficient behavior
+* Impact of regularization strength on model performance
+* Introduction to cross-validation - K-fold and Stratified K-fold
+* Tuning ridge and lasso penalties with cross-validation
