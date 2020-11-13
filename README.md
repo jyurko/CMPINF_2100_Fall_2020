@@ -83,3 +83,9 @@ Repository for weekly in-lecture programming examples.
 * Introduction to cross-validation - K-fold and Stratified K-fold
 * Tuning ridge and lasso penalties with cross-validation
 * Bias-variance trade-off
+
+## Week 13
+* Overfitting, cross-validation, and regularization review
+* Chaining standardization and model fitting within cross-validation folds with Pipelines
+* Tuning regularization methods with GridSearchCV and Pipelines
+* Tuning logistic regression with elastic net penalty with the Sonar data set
