@@ -89,3 +89,11 @@ Repository for weekly in-lecture programming examples.
 * Chaining standardization and model fitting within cross-validation folds with Pipelines
 * Tuning regularization methods with GridSearchCV and Pipelines
 * Tuning logistic regression with elastic net penalty with the Sonar data set
+
+## Week 14
+* Review PCA, scree plot, total variance explained
+* PCA as a feature extraction preprocessing step
+* Tune the number of PCs to retain with GridSearchCV and Pipelines
+* Tune number of PCs to retain with the Lasso penalty
+* Quick introduction to tree based methods, Decision Tree and Random Forest
+* Review categorical inputs - dummy variables vs one-hot encoding
